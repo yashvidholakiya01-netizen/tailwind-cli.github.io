@@ -1,0 +1,13 @@
+step 1 :tailwind-cli foldar open kari ne 
+
+2:crome tailwind css open karo tema tailwind cli ma jai ne 4 setp se  aem karva nu se
+ 2.1 : termal ma copy - npm install tailwindcss @tailwindcss/cli
+ 2.2: input.css file ni andar copy - @import "tailwindcss";
+ 2.3: npx @tailwindcss/cli -i ./input.css -o ./output.css --watch
+      aa packege.json ma lakho
+  "scripts": {
+    "start": "npx @tailwindcss/cli -i ./input.css -o ./src/output.css --watch"
+  }
+3: index.html ma lakho 
+ <link href="./output.css" rel="stylesheet">
+ 4: npm run start
