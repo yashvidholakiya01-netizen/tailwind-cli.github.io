@@ -1,4 +1,5 @@
 ## tailwind css add karva mate 
+## tailwind css add karva mate
 
 step 1 :tailwind-cli foldar open kari ne 
 
@@ -30,3 +31,8 @@ step 1 :tailwind-cli foldar open kari ne
  git commit -m "msg"
  git checkout development
   git branch
+ ## 
+ git branch
+ git branch development
+ git branch
+ git status  /jo error aave to
