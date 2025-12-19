@@ -1,3 +1,5 @@
+## tailwind css add karva mate 
+
 step 1 :tailwind-cli foldar open kari ne 
 
 2:crome tailwind css open karo tema tailwind cli ma jai ne 4 setp se  aem karva nu se
@@ -11,3 +13,20 @@ step 1 :tailwind-cli foldar open kari ne
 3: index.html ma lakho 
  <link href="./output.css" rel="stylesheet">
  4: npm run start
+
+ ## branch change karva mate
+
+ git branch
+ git branch development
+ git branch
+ git status  / jo error aave to next command
+ git add.
+ git commit -m "msg"
+ git push origin master /403 aave to
+  git push origin master
+ git checkout development /error note.txt ni aavi
+ git status
+   git add .
+ git commit -m "msg"
+ git checkout development
+  git branch
