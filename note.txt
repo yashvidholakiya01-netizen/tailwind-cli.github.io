@@ -1,3 +1,5 @@
+## tailwind css add karva mate
+
 step 1 :tailwind-cli foldar open kari ne 
 
 2:crome tailwind css open karo tema tailwind cli ma jai ne 4 setp se  aem karva nu se
